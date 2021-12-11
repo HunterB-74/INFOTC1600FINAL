@@ -6,4 +6,4 @@
 
 The target audience for this tutorial are people new to the usage of virtual machines, nut have some level of familiarity with the process of installing an operating system.
 
-To start the tutorial click +[here].
+To start the tutorial click [here.](tutorial.md)
