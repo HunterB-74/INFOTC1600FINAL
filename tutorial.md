@@ -2,8 +2,8 @@
 ## If you have not already, make sure you have downloaded and installed VMware Workstation which can be found [here.](https://www.vmware.com/products/workstation-pro.html)
 ## Make sure as well that you have downloaded the .iso file for the latest version of Ubuntu Desktop which can be found [here.](https://ubuntu.com/download/desktop)
 
-If you have both of these downloaded then proceed with the tutorial.
- <br>
+If you have both of these downloaded then proceed with the tutorial.<br>
+
 <b>Step 1</b><br>
 First start by opening VMware Workstation and locating the file option in the upper left hand corner and click on it.<br>
 ![1](https://user-images.githubusercontent.com/70162924/145664885-8017e263-ba08-4680-8d2b-abb66f68dd51.PNG)<br>
