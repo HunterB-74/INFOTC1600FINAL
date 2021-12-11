@@ -49,4 +49,4 @@ pic
 Set the snapshot name to Fresh Install then click Take Snapshot.
 With that your new virtual machine is complete and ready to go.
 
-[Click here to retun to the main page.](readme.md)
+[Click here to retun to the main page.](README.md)
