@@ -4,6 +4,7 @@
 
 If you have both of these downloaded then proceed with the tutorial.
 
+<b>Step 1</b>
 First start by opening VMware Workstation and locating the file option in the upper left hand corner and click on it.<br>
 ![1](https://user-images.githubusercontent.com/70162924/145664885-8017e263-ba08-4680-8d2b-abb66f68dd51.PNG)<br>
 
